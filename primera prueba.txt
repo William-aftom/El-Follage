@@ -1,0 +1,57 @@
+let nombre = "wilsont"
+let edad = 20
+let esEstudiante=false
+
+console.log(nombre)
+console.log(edad)
+console.log(esEstudiante)
+console.log("mi nombre es",nombre," y tengo",edad,"años y en estudiante soy: ",esEstudiante)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+let A=15
+let B=13
+let C=20
+let suma= A+B
+let resta= A-B
+let multiplica= A*B
+let dividir= A/B
+console.log ("la sumaes es a=",A,"y b=",B,"es:",suma)
+console.log ("la resta es a=",A,"y b=",B,"es:",resta)
+console.log ("la multiplica es a=",A,"y b=",B,"es:",multiplica)
+console.log ("la dividir es a=",A,"y b=",B,"es:",dividir)
+
+let mayor,menor,igual
+if(A>B)
+{
+    mayor="la variable A es mayor"
+    menor="y la variable B es menor"
+}
+else
+{
+    mayor="la variable B es menor"
+    mayor="y la variable B es menor"
+}
+console.log(mayor,menor)
+if(A<B)
+{
+    mayor="la variable A es mayor"
+    menor="y la variable B es menor"
+}
+else
+{
+    mayor="la variable B es menor"
+    mayor="y la variable B es menor"
+}
+console.log(mayor,menor)
+if (B==C)
+{
+    igual="la B y C es igual"
+}
+else 
+{
+    igual="la B y C es igual"
+}
+console.log (igual)

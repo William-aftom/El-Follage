@@ -1,0 +1,45 @@
+header {
+  background-color: #CDF9F3;
+}
+
+body {
+  background-color: #DAECEA;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-weight: bold;
+}
+
+#p1 {
+  background-color: black;
+}
+
+.perfil {
+  width: 500px;
+  border: 6px solid #F7C9EE;
+  border-radius: 5%;
+}
+/*estilos de la sesion*/
+uL {
+  list-style-type: decimal-leading-zero;
+}
+
+ol {
+  list-style-type: georgian;
+  list-style-position: outside;
+}
+table {
+padding: 0.cm;
+}
+td, th {
+  border: #54DECB;
+  background-color: #F7C9EE;
+  color: #E58787;
+
+}
+/*SESION 5: ESTILOS*/
+.genero{
+  display: inline;
+  margin: auto 10px;
+}
